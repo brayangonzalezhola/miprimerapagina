@@ -1,0 +1,25 @@
+h1 {
+    color: green;
+}
+h2{
+    color:blue;
+}
+p{
+    color:aqua;
+}
+html{
+    background-color: red;
+}
+li{
+    color:green;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0; /* Espacio alrededor del video */
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
